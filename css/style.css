@@ -25,6 +25,10 @@ a:hover {
     color: #e99f1c;
 }
 
+#title a {
+    color: #fff;
+}
+
 .container {
     background-color: #fff;
     border-radius: 25px;
