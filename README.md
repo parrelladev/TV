@@ -1,6 +1,8 @@
 # Visão Geral
 Este projeto consiste em uma página da web simples para assistir a canais de TV online. Permite que os usuários selecionem diferentes canais através de botões, que alteram dinamicamente a origem do reprodutor de vídeo incorporado para transmitir o canal selecionado.
 
+Confira: https://parrelladev.github.io/TV/
+
 ## Estrutura de Arquivos
 - `index.html`: O arquivo HTML principal contendo a estrutura da página da web.
 - `css/style.css`: A folha de estilo para estilizar a página da web.
