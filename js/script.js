@@ -1,3 +1,10 @@
+function preventNewTab(e) {
+    e.preventDefault();
+    alert("Não é possível abrir uma nova aba.");
+}
+
+document.getElementById('videoPlayer').addEventListener('click', preventNewTab);
+
 function changeVideo(url, channelName) {
     // Decodifica a URL
     const decodedUrl = decodeURIComponent(url);
